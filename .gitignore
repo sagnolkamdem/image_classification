@@ -1,0 +1,12 @@
+train/
+test/
+test.txt
+train.txt
+models/
+predictions/
+
+.idea
+.ipynb_checkpoints
+.DS_Store
+
+best_resnet_upscaled.pth
